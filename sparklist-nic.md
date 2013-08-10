@@ -59,5 +59,7 @@ Twitter probabilistic trust tool - using bayesian logic to predict if a tweet by
 
 A hardware interface for MPD (for people who have USB-DACs plugged in to rPi's and hooked up to their HiFi's - admittedly a limited market)
 
+VineBeat - create a Vine account and just post videos that contain musical loops, that loop perfectly. All the posts can work together to form a beat or a track. 
+
 
 
