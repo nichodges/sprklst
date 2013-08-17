@@ -59,7 +59,9 @@ Twitter probabilistic trust tool - using bayesian logic to predict if a tweet by
 
 A hardware interface for MPD (for people who have USB-DACs plugged in to rPi's and hooked up to their HiFi's - admittedly a limited market)
 
-VineBeat - create a Vine account and just post videos that contain musical loops, that loop perfectly. All the posts can work together to form a beat or a track. 
+VineBeat - create a Vine account and just post videos that contain musical loops, that loop perfectly. All the posts can work together to form a beat or a track. (Also could be VineOrchestra)
 
+Platform 0 - I can get a bunch of different trains home. I need an app that tells me the next train going to South Yarra from Flinders St, what platform it's leaving from and how long until it leaves.
 
+oNinja - A private, professional oDesk. You can pay to have competent people do high-skill/specialist tasks for you. Private, invite only, and relies on discretion. It's load balancing for upper management.
 
