@@ -65,3 +65,7 @@ Platform 0 - I can get a bunch of different trains home. I need an app that tell
 
 oNinja - A private, professional oDesk. You can pay to have competent people do high-skill/specialist tasks for you. Private, invite only, and relies on discretion. It's load balancing for upper management.
 
+NewsBalance - a news filtering/curation service that gives you articles you're interested in. As it builds up a profile of you, it finds someone completely opposite, and then highlights the things they're reading to give you a balanced view. It's like an anti-rabbithole.
+
+
+
