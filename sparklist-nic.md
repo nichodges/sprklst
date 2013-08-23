@@ -67,5 +67,7 @@ oNinja - A private, professional oDesk. You can pay to have competent people do 
 
 NewsBalance - a news filtering/curation service that gives you articles you're interested in. As it builds up a profile of you, it finds someone completely opposite, and then highlights the things they're reading to give you a balanced view. It's like an anti-rabbithole.
 
+Meta startup #1: A virtual assistant to find you the best possible virtual assistant for your needs.
+
 
 
