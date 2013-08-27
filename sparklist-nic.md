@@ -69,5 +69,7 @@ NewsBalance - a news filtering/curation service that gives you articles you're i
 
 Meta startup #1: A virtual assistant to find you the best possible virtual assistant for your needs.
 
+Parrot Vine. A drone that goes for a fly at sunrise every morning and takes a vine video, returns home and uploads it.
+
 
 
