@@ -71,5 +71,10 @@ Meta startup #1: A virtual assistant to find you the best possible virtual assis
 
 Parrot Vine. A drone that goes for a fly at sunrise every morning and takes a vine video, returns home and uploads it.
 
+NotebookLTD - Subscription notebooks.
+
+Group buying / kickstarter for wedding registries - people can go there and buy you a night in a resort, or a massage, or a dinner. 
+
+Fork [tweetable](https://github.com/jbenton/tweetable-text) and make it automatically find the sentences from your article that people are tweeting.
 
 
