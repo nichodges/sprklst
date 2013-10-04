@@ -77,4 +77,5 @@ Group buying / kickstarter for wedding registries - people can go there and buy 
 
 Fork [tweetable](https://github.com/jbenton/tweetable-text) and make it automatically find the sentences from your article that people are tweeting.
 
+A service that shows you the Twitter accounts of your LinkedIn contacts that you're not following.
 
