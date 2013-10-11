@@ -79,3 +79,5 @@ Fork [tweetable](https://github.com/jbenton/tweetable-text) and make it automati
 
 A service that shows you the Twitter accounts of your LinkedIn contacts that you're not following.
 
+Build a hardware display for the GPIO pins on an rPi that visibly indicate how recent your backup is. (assuming your Pi is doing your backups). Oldschool dial would be nice, or LED the changes from green to red over N days.
+
