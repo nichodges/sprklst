@@ -81,3 +81,7 @@ A service that shows you the Twitter accounts of your LinkedIn contacts that you
 
 Build a hardware display for the GPIO pins on an rPi that visibly indicate how recent your backup is. (assuming your Pi is doing your backups). Oldschool dial would be nice, or LED the changes from green to red over N days.
 
+An rPi internet radio that turns on via a 12V switch (found on most HiFis). Simple volume and station control via a mobile-friendly local web interface.
+
+A presentation system using web sockets. The audience sees a web page - full screen. That page is updated when I choose a new slide via a presenter interface. The interface would be visual, searchable, themable, and intelligently handle data visualisation as well as the ability to present multiple slides on one screen, and save a history of each presentation.
+
