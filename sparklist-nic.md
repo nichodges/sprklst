@@ -2,7 +2,7 @@
 
 Music events that run like Kickstarter - we approach an artist with a date and if we get enough support it's on. Include streaming the concert as an option.
 
-Github for music collaboration. 
+Github for music collaboration. *Now done by blend.io!**
 
 Kindle bookshelf - hook up your Kindle account and we'll print out a life-size version of the spines of all the books you've read for you to put on your bookshelf.
 
