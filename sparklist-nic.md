@@ -86,3 +86,7 @@ An rPi internet radio that turns on via a 12V switch (found on most HiFis). Simp
 A presentation system using web sockets. The audience sees a web page - full screen. That page is updated when I choose a new slide via a presenter interface. The interface would be visual, searchable, themable, and intelligently handle data visualisation as well as the ability to present multiple slides on one screen, and save a history of each presentation.
 
 An interface for organising bike rides. Everyone within a group puts in their planned rides for the weekend - avoiding the mass email trains. (would probably link in to Strava?)
+
+Podcast app that includes donate button.
+
+AdBlock for Twitter - blocks all brands so you don't see promoted tweets.
