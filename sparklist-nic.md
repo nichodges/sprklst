@@ -90,3 +90,8 @@ An interface for organising bike rides. Everyone within a group puts in their pl
 Podcast app that includes donate button.
 
 AdBlock for Twitter - blocks all brands so you don't see promoted tweets.
+
+SetCloud - an app for SoundCloud that only plays tracks longer than X-minutes from people you follow. 
+
+60min read - Deep learning content aggregator that gives you 1hr of content to read every day.
+
