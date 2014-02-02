@@ -30,7 +30,7 @@ CitationNeeded - twitter bot site that allows you to call people out for citatio
 
 BrandUnfollow - login with twitter and Facebook and we'll show you all the brands you can unfollow.
 
-A better nbews-reading and discovery app. News discovery is about algorithmic convergence - nothing diverges. So create something that does a good job of showing me 90% content that's bang on - but 10% content that challenges me.
+A better news-reading and discovery app. News discovery is about algorithmic convergence - nothing diverges. So create something that does a good job of showing me 90% content that's bang on - but 10% content that challenges me.
 
 Music discovery on soundcloud by analysing who an artist follows. Then look at frequency, number of plays, and number of other connection of each artist. Present in a nice way that allows you to listen to their most popular track (under 15min to avoid sets)
 
@@ -38,12 +38,11 @@ Connects users to brands. Permission based. Not tracking, not targeting. Invitat
 
 MishMash - something for storing data points. When you come across cool stats you add them. Make it searchable, make it social/accessible. Sources are imperitive.
 
-
 Tinder for businesses. Every person, their start date, team, position, extension, email, and mobile. Self reporting - if the person has quit you hit a button and the admin gets an email. If the persons details are wrong you can report them as wrong. Anyone can edit a persons details (except their email address), and the changes aren't applied until the person clicks an approve link in a confirmation email.
 
 3D Printed clock (preferably in transparent acryclic)
 
-Hyedisms - Tweets of Karl Hyde lyrics.
+Hyedisms - Tweets of Karl Hyde lyrics. **Done - [twitter.com/hydeisms](http://twitter.com/hydeisms)
 
 Personal data project - a way to collect and store your personal analytics. Safely and securely and on open source code and/or hardware. Why? I'm not sure yet, but when I work it out, I want the historical data
 
@@ -73,7 +72,7 @@ Parrot Vine. A drone that goes for a fly at sunrise every morning and takes a vi
 
 NotebookLTD - Subscription notebooks.
 
-Group buying / kickstarter for wedding registries - people can go there and buy you a night in a resort, or a massage, or a dinner. 
+Group buying / kickstarter for wedding registries - people can go there and buy you a night in a resort, or a massage, or a dinner.  **Totally done by honeyfund et al)
 
 Fork [tweetable](https://github.com/jbenton/tweetable-text) and make it automatically find the sentences from your article that people are tweeting.
 
