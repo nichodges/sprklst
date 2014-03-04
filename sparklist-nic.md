@@ -22,7 +22,7 @@ As above, but part of a trigger system whereby when it's sunny and over 25deg, y
 
 Tools for local business to ramp up their advertising and marketing all round. Localisation of mailing lists. Easy database management. 
 
-A web/mobile app thingy that lets me create playlists from disparate sources - Spotify, SoundCloud, Files stored on DropBox/Box.com etc.
+A web/mobile app thingy that lets me create playlists from disparate sources - Spotify, SoundCloud, Files stored on DropBox/Box.com etc. *Done by [Mopidy](http://docs.mopidy.com/)!*
 
 Pro-social - a group of marketing types who act as community managers for charities. OR who do digital strategy for charities. cf. Pro bono Economists
 
