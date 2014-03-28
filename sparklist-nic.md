@@ -2,7 +2,7 @@
 
 Music events that run like Kickstarter - we approach an artist with a date and if we get enough support it's on. Include streaming the concert as an option.
 
-Github for music collaboration. *Now done by blend.io!**
+Github for music collaboration. *Done by [blend.io](http://blend.io)!**
 
 Kindle bookshelf - hook up your Kindle account and we'll print out a life-size version of the spines of all the books you've read for you to put on your bookshelf.
 
@@ -72,7 +72,7 @@ Parrot Vine. A drone that goes for a fly at sunrise every morning and takes a vi
 
 NotebookLTD - Subscription notebooks.
 
-Group buying / kickstarter for wedding registries - people can go there and buy you a night in a resort, or a massage, or a dinner.  **Totally done by honeyfund et al)
+Group buying / kickstarter for wedding registries - people can go there and buy you a night in a resort, or a massage, or a dinner.  (Totally done by honeyfund et al)
 
 Fork [tweetable](https://github.com/jbenton/tweetable-text) and make it automatically find the sentences from your article that people are tweeting.
 
@@ -88,9 +88,13 @@ An interface for organising bike rides. Everyone within a group puts in their pl
 
 Podcast app that includes donate button.
 
-AdBlock for Twitter - blocks all brands so you don't see promoted tweets.
+AdBlock for Twitter - blocks all brands so you don't see promoted tweets. *Proof of concept built! [Twadblock](http://thenewsaesthetic.com/p/twadblock/connect.php)*
 
-SetCloud - an app for SoundCloud that only plays tracks longer than X-minutes from people you follow. 
+SetCloud - an app for SoundCloud that only plays tracks longer than X-minutes from people you follow. *Done! [setcloud.mishmash.io](http://setcloud.mishmash.io)*
 
 60min read - Deep learning content aggregator that gives you 1hr of content to read every day.
+
+Instapooper - a mobile app that grabs a 3-4minute read from your Instapapaer/Pocket/etc. account. Could also includ 'deep learning' function to optimise the length of the article based on user feedback.
+
+Fading comments - a comments plugin for news sites whereby a user's comments on all articles only remain visible for a small period of time unless they validate.
 
