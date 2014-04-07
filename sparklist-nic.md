@@ -94,7 +94,9 @@ SetCloud - an app for SoundCloud that only plays tracks longer than X-minutes fr
 
 60min read - Deep learning content aggregator that gives you 1hr of content to read every day.
 
-Instapooper - a mobile app that grabs a 3-4minute read from your Instapapaer/Pocket/etc. account. Could also includ 'deep learning' function to optimise the length of the article based on user feedback.
+Instapooper - a mobile app that grabs a 3-4minute read from your Instapapaer/Pocket/etc. account. Could also includ 'deep learning' function to optimise the length of the article based on 'user feedback'.
 
 Fading comments - a comments plugin for news sites whereby a user's comments on all articles only remain visible for a small period of time unless they validate.
+
+Noteshelf - Connects to your Kindle account / GoodReads, and prints out little index cards with all of your highlights for a particular book. Those cards are delivered in a nice box, with the name of the book on the side, so you can put it on your bookshelf.
 
