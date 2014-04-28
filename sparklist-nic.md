@@ -2,7 +2,7 @@
 
 Music events that run like Kickstarter - we approach an artist with a date and if we get enough support it's on. Include streaming the concert as an option.
 
-Github for music collaboration. *Done by [blend.io](http://blend.io)!**
+Github for music collaboration. *Done by [blend.io](http://blend.io)!*
 
 Kindle bookshelf - hook up your Kindle account and we'll print out a life-size version of the spines of all the books you've read for you to put on your bookshelf.
 
@@ -12,7 +12,7 @@ A good news reader that finds the articles I actually want from select sources.
 
 Agency mobile client dashboard - google alerts, stock price, category trends, everything you need to know what's going on in the life of your client.
 
-A personal analytics dashboard that shows me the things I want to know - how many people have used one oy my apps, visitors to my blog, listens on soundcloud, over the last 24hrs etc. 
+A personal analytics dashboard that shows me the things I want to know - how many people have used one of my apps, visitors to my blog, listens on soundcloud, over the last 24hrs etc. 
 
 As above, extended to hardware indicators.
 
@@ -42,7 +42,7 @@ Tinder for businesses. Every person, their start date, team, position, extension
 
 3D Printed clock (preferably in transparent acryclic)
 
-Hyedisms - Tweets of Karl Hyde lyrics. **Done - [twitter.com/hydeisms](http://twitter.com/hydeisms)
+Hyedisms - Tweets of Karl Hyde lyrics. *Done - [twitter.com/hydeisms](http://twitter.com/hydeisms)*
 
 Personal data project - a way to collect and store your personal analytics. Safely and securely and on open source code and/or hardware. Why? I'm not sure yet, but when I work it out, I want the historical data
 
@@ -72,7 +72,7 @@ Parrot Vine. A drone that goes for a fly at sunrise every morning and takes a vi
 
 NotebookLTD - Subscription notebooks.
 
-Group buying / kickstarter for wedding registries - people can go there and buy you a night in a resort, or a massage, or a dinner.  (Totally done by honeyfund et al)
+Group buying / kickstarter for wedding registries - people can go there and buy you a night in a resort, or a massage, or a dinner.  *(Totally done by honeyfund et al)*
 
 Fork [tweetable](https://github.com/jbenton/tweetable-text) and make it automatically find the sentences from your article that people are tweeting.
 
@@ -94,7 +94,7 @@ SetCloud - an app for SoundCloud that only plays tracks longer than X-minutes fr
 
 60min read - Deep learning content aggregator that gives you 1hr of content to read every day.
 
-Instapooper - a mobile app that grabs a 3-4minute read from your Instapapaer/Pocket/etc. account. Could also includ 'deep learning' function to optimise the length of the article based on 'user feedback'.
+Instapooper - a mobile app that grabs a 3-4minute read from your Instapapaer/Pocket/etc. account. Could also include 'deep learning' function to optimise the length of the article based on 'user feedback'.
 
 Fading comments - a comments plugin for news sites whereby a user's comments on all articles only remain visible for a small period of time unless they validate.
 
