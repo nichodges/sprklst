@@ -100,3 +100,4 @@ Fading comments - a comments plugin for news sites whereby a user's comments on 
 
 Noteshelf - Connects to your Kindle account / GoodReads, and prints out little index cards with all of your highlights for a particular book. Those cards are delivered in a nice box, with the name of the book on the side, so you can put it on your bookshelf.
 
+Node.js multi device super simple Pomodoro web-app that has nice visualisations (and probably emails you)
