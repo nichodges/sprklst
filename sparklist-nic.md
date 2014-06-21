@@ -105,3 +105,5 @@ Node.js multi device super simple Pomodoro web-app that has nice visualisations 
 Simplenote/Evernote for Spreadsheets - a lightweight app/web thing that has basic spreadsheet functionality and history. I hate launching Excel / GDocs to do a simple pricing equation matrix.
 
 A kaya Go board with embedded sensors/LEDs allowing you to play against a remote opponent using PandaNet.
+
+A script that watches for @pmarca's ridiculous essay multi-tweets, and turns them into a single-tweet image. With wonderful typography. 
