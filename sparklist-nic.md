@@ -107,3 +107,5 @@ Simplenote/Evernote for Spreadsheets - a lightweight app/web thing that has basi
 A kaya Go board with embedded sensors/LEDs allowing you to play against a remote opponent using PandaNet.
 
 A script that watches for @pmarca's ridiculous essay multi-tweets, and turns them into a single-tweet image. With wonderful typography. 
+
+Oppelganger - Finds your complete opposite on Twitter, and allows you to experience Twitter like they see it. Would be rad with Facebook as well, but would require permission on both sides.
