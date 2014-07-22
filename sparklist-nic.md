@@ -109,3 +109,5 @@ A kaya Go board with embedded sensors/LEDs allowing you to play against a remote
 A script that watches for @pmarca's ridiculous essay multi-tweets, and turns them into a single-tweet image. With wonderful typography. 
 
 Oppelganger - Finds your complete opposite on Twitter, and allows you to experience Twitter like they see it. Would be rad with Facebook as well, but would require permission on both sides.
+
+Instapod - A service (built in to a podcast app) where I can hit a button after I hear something I want to save for later. The last N-seconds of audio is sent to a transcription service, and then the text is emailed to me.
