@@ -111,3 +111,5 @@ A script that watches for @pmarca's ridiculous essay multi-tweets, and turns the
 Oppelganger - Finds your complete opposite on Twitter, and allows you to experience Twitter like they see it. Would be rad with Facebook as well, but would require permission on both sides.
 
 Instapod - A service (built in to a podcast app) where I can hit a button after I hear something I want to save for later. The last N-seconds of audio is sent to a transcription service, and then the text is emailed to me.
+
+Kickstarter Insurance - For a premium of N% of your commitment, you can get a full refund if your project hasn't shipped by (promised_date * 1.3). If you get a refund, Kicksurance gets the product.
