@@ -1,6 +1,6 @@
 ##@nichodges sparklist
 
-Music events that run like Kickstarter - we approach an artist with a date and if we get enough support it's on. Include streaming the concert as an option.
+Music events that run like Kickstarter - we approach an artist with a date and if we get enough support it's on. Include streaming the concert as an option. *Done by [@GiggedIn](http://giggedin.com)*
 
 Github for music collaboration. *Done by [blend.io](http://blend.io)!*
 
