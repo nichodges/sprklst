@@ -115,3 +115,5 @@ Instapod - A service (built in to a podcast app) where I can hit a button after 
 Kickstarter Insurance - For a premium of N% of your commitment, you can get a full refund if your project hasn't shipped by (promised_date * 1.3). If you get a refund, Kicksurance gets the product.
 
 BufferBreak - Monitors the world for big global important news, and when detected it will pause any scheduled Tweets, FB posts, etc. that you have queued up in Buffer etc.
+
+HemingwayTabs - A browser extension that removes the back button, and only allows a maximum of two tabs. 
