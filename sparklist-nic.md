@@ -117,3 +117,5 @@ Kickstarter Insurance - For a premium of N% of your commitment, you can get a fu
 BufferBreak - Monitors the world for big global important news, and when detected it will pause any scheduled Tweets, FB posts, etc. that you have queued up in Buffer etc.
 
 HemingwayTabs - A browser extension that removes the back button, and only allows a maximum of two tabs. 
+
+Blockchange - a mobile Bitcoin app where every transaction is rounded, with the change going to a wallet you can't access for N years.
