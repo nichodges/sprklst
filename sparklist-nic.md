@@ -119,3 +119,7 @@ BufferBreak - Monitors the world for big global important news, and when detecte
 HemingwayTabs - A browser extension that removes the back button, and only allows a maximum of two tabs. 
 
 Blockchange - a mobile Bitcoin app where every transaction is rounded, with the change going to a wallet you can't access for N years.
+
+@nowreading - A twitter bot for what you're reading. Simply tell it what you're reading, and then other peopel can ask at any time what you're reading. 
+
+The Metadata Game - Demonstrating how much your metadata reveals. Use the 'visited links hack' to create a flappybird style game where sprites are rendered based on links visited. Collect the data of visited sites through gameplay, and at the end show the user all the metadata you've just collected on them. 
