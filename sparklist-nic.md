@@ -123,3 +123,5 @@ Blockchange - a mobile Bitcoin app where every transaction is rounded, with the 
 @nowreading - A twitter bot for what you're reading. Simply tell it what you're reading, and then other peopel can ask at any time what you're reading. 
 
 The Metadata Game - Demonstrating how much your metadata reveals. Use the 'visited links hack' to create a flappybird style game where sprites are rendered based on links visited. Collect the data of visited sites through gameplay, and at the end show the user all the metadata you've just collected on them. 
+
+Actual physical Git Push/Pull hardware. Maybe a dial with a screen to select the repo, then a lever to push/pull.
