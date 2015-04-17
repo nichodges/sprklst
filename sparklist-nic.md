@@ -127,3 +127,5 @@ The Metadata Game - Demonstrating how much your metadata reveals. Use the 'visit
 Actual physical Git Push/Pull hardware. Maybe a dial with a screen to select the repo, then a lever to push/pull.
 
 '@lunchcutter' - An instagram account that just posts photos of other peoples lunches. Also with a photo of their reaction as you take the photo of their lunch.
+
+InterceptBox - A menu bar app that you enable when you're on a projector and need to have your inbox visible. Switch it on and any new emails get diverted to a folder - rather than to the Inbox for the whole room to see.
