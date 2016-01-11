@@ -131,3 +131,5 @@ Actual physical Git Push/Pull hardware. Maybe a dial with a screen to select the
 InterceptBox - A menu bar app that you enable when you're on a projector and need to have your inbox visible. Switch it on and any new emails get diverted to a folder - rather than to the Inbox for the whole room to see.
 
 SevenDays - Connect your social apps (FB, Instagram, etc.), choose the people who you really, truly, actually care about. Then stop checking those social networks. SevenDays will send you a summary of what the people you care about have been doing every Saturday morning. 
+
+140 - A Twitter client that only shows you tweets that contain no links or images. 
