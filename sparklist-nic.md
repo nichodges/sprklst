@@ -133,3 +133,5 @@ InterceptBox - A menu bar app that you enable when you're on a projector and nee
 SevenDays - Connect your social apps (FB, Instagram, etc.), choose the people who you really, truly, actually care about. Then stop checking those social networks. SevenDays will send you a summary of what the people you care about have been doing every Saturday morning. 
 
 140 - A Twitter client that only shows you tweets that contain no links or images. 
+
+Conversation Bot - Tell it two people on twitter that have interesting conversations. When they have one, it will make a screenshot and tweet it to you.
