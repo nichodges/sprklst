@@ -137,3 +137,7 @@ SevenDays - Connect your social apps (FB, Instagram, etc.), choose the people wh
 Conversation Bot - Tell it two people on twitter that have interesting conversations. When they have one, it will make a screenshot and tweet it to you.
 
 SMTPressure - Hooks you wearable blood-pressure monitor up to your mail server and doesn't actually send emails when your blood pressure is too high.
+
+Snapchat lists - Discovery of good people on Snapchat is really hard. A site with curated lists around specific topics with great people to follow.
+
+Blockchain publishing - A micropayment system whereby text content is housed on a server and retrieved through micropayments which deliver text chunks along with a key. Would allow payment per paragraph, allow people to skip to the end and not pay for the middle, etc.
